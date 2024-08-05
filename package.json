@@ -41,7 +41,7 @@
     "medusa-interfaces": "latest",
     "medusa-payment-manual": "latest",
     "medusa-payment-stripe": "latest",
-    "npm-check-updates": "^16.14.20",
+    "npm-check-updates": "^17.0.3",
     "prism-react-renderer": "^2.3.1",
     "typeorm": "^0.3.20"
   },
